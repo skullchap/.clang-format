@@ -1,6 +1,6 @@
 BasedOnStyle: GNU
 
-# Use 8 spaces for indentation
+# Use tabs for indentation
 IndentWidth: 8
 TabWidth: 8
 UseTab: Always
